@@ -1,0 +1,378 @@
+MSA,ViolentCrime,Murder,Rape,Robbery,AggravatedAssault,PropertyCrime,Burglary,Theft,MotorVehicleTheft,State,City,Violent Crime Status
+"Abilene, TX M.S.A.",412,5,56,78,273,3609,852,2494,263,TX,Abilene,401-500
+"Akron, OH M.S.A.",238,5,38,75,120,2552,575,1853,124,OH,Akron,201-300
+"Albany, GA M.S.A.",668,8,30,158,472,3894,1100,2653,142,GA,Albany,601-700
+"Albany, OR M.S.A.",114,2,28,21,63,3208,485,2476,248,OR,Albany,101-200
+"Albuquerque, NM M.S.A.",793,6,64,207,516,4608,883,3048,677,NM,Albuquerque,701-800
+"Alexandria, LA M.S.A.",936,4,36,120,776,4566,1167,3084,315,LA,Alexandria,901-1000
+"Altoona, PA M.S.A.",216,1,29,26,162,1430,219,1164,48,PA,Altoona,201-300
+"Amarillo, TX M.S.A.",539,3,72,107,356,3827,763,2743,321,TX,Amarillo,501-600
+"Ames, IA M.S.A.",158,1,47,20,90,1848,312,1462,74,IA,Ames,101-200
+"Anchorage, AK M.S.A.",1040,8,166,199,667,4030,555,3088,388,AK,Anchorage,1000 Plus
+"Ann Arbor, MI M.S.A.",320,2,57,51,209,1792,290,1417,84,MI,Ann Arbor,301-400
+"Anniston-Oxford-Jacksonville, AL M.S.A.",699,9,54,86,551,3296,1013,2160,122,AL,Oxford,601-700
+"Appleton, WI M.S.A.",139,0,24,9,106,1395,207,1155,34,WI,Appleton,101-200
+"Asheville, NC M.S.A.",202,3,20,50,130,2159,593,1437,130,NC,Asheville,201-300
+"Athens-Clarke County, GA M.S.A.",326,2,41,68,214,3106,675,2273,157,GA,Athens,301-400
+"Atlanta-Sandy Springs-Roswell, GA M.S.A.",401,6,21,152,222,3070,629,2113,327,GA,Atlanta,401-500
+"Atlantic City-Hammonton, NJ M.S.A.2",414,7,21,187,199,2817,525,2210,82,NJ,West Atlantic City,401-500
+"Austin-Round Rock, TX M.S.A.2",288,2,45,61,179,2673,416,2097,160,TX,Austin,201-300
+"Bakersfield, CA M.S.A.",556,7,32,130,387,3439,954,1881,604,CA,Bakersfield,501-600
+"Baltimore-Columbia-Towson, MD M.S.A.",625,13,30,239,343,2625,518,1823,284,MD,Baltimore,601-700
+"Bangor, ME M.S.A.",67,2,9,18,38,1984,337,1604,43,ME,Bangor,0-100
+"Barnstable Town, MA M.S.A.",519,1,49,29,439,1722,476,1171,76,MA,,501-600
+"Baton Rouge, LA M.S.A.",479,11,34,141,293,3499,780,2587,133,LA,Baton Rouge,401-500
+"Battle Creek, MI M.S.A.",559,3,104,61,391,2839,744,2001,94,MI,Battle Creek,501-600
+"Bay City, MI M.S.A.",283,0,80,37,166,2100,497,1520,83,MI,Bay City,201-300
+"Beaumont-Port Arthur, TX M.S.A.",522,7,42,121,352,2818,784,1866,169,TX,Beaumont,501-600
+"Beckley, WV M.S.A.",440,6,41,85,308,3027,827,2059,141,WV,Beckley,401-500
+"Bellingham, WA M.S.A.",195,3,43,30,120,2961,539,2294,128,WA,Bellingham,101-200
+"Bend-Redmond, OR M.S.A.",177,2,38,19,118,2364,299,1968,97,OR,Bend,101-200
+"Billings, MT M.S.A.",361,6,48,44,262,3694,466,2696,533,MT,Billings,301-400
+"Binghamton, NY M.S.A.",275,3,72,63,138,2534,411,2071,52,NY,Binghamton,201-300
+"Birmingham-Hoover, AL M.S.A.",682,11,46,158,467,3345,818,2262,265,AL,Birmingham,601-700
+"Bismarck, ND M.S.A.",227,3,37,13,174,1668,188,1320,159,ND,Bismarck,201-300
+"Bloomington, IL M.S.A.",252,0,62,32,158,1669,322,1278,68,IL,Bloomington,201-300
+"Bloomington, IN M.S.A.",278,2,45,47,184,2557,492,1907,157,IN,Bloomington,201-300
+"Bloomsburg-Berwick, PA M.S.A",153,1,22,7,122,1326,240,1058,28,PA,Bloomsburg,101-200
+"Boise City, ID M.S.A.",234,2,49,14,169,1725,315,1286,124,ID,Boise,201-300
+"Bowling Green, KY M.S.A.",173,1,44,52,76,2406,477,1785,144,KY,Bowling Green,101-200
+"Bremerton-Silverdale, WA M.S.A.",256,3,47,37,168,2746,567,1984,196,WA,Bremerton,201-300
+"Bridgeport-Stamford-Norwalk, CT M.S.A.",202,2,22,77,100,1473,237,1091,146,CT,Bridgeport,201-300
+"Brownsville-Harlingen, TX M.S.A.",300,2,44,62,192,3230,568,2589,73,TX,Brownsville,201-300
+"Brunswick, GA M.S.A.",358,3,26,84,246,3338,827,2322,189,GA,Brunswick,301-400
+"Buffalo-Cheektowaga-Niagara Falls, NY M.S.A.",402,4,33,133,232,2414,474,1806,133,NY,Buffalo,401-500
+"Burlington, NC M.S.A.",395,5,20,64,306,2476,708,1666,101,NC,Burlington,301-400
+"Burlington-South Burlington, VT M.S.A.",128,1,23,22,83,1955,375,1564,16,VT,Burlington,101-200
+"California-Lexington Park, MD M.S.A.",266,1,18,46,201,2055,490,1503,62,MD,California,201-300
+"Canton-Massillon, OH M.S.A.",324,3,44,91,186,2568,652,1799,116,OH,Canton,301-400
+"Cape Coral-Fort Myers, FL M.S.A.",356,4,30,81,241,1801,407,1271,123,FL,Cape Coral,301-400
+"Cape Girardeau, MO-IL M.S.A.",447,3,47,69,328,2940,602,2176,162,MO,Cape Girardeau,401-500
+"Carson City, NV M.S.A.",315,2,4,37,273,1830,337,1341,152,NV,Carson City,301-400
+"Casper, WY M.S.A.",234,1,40,27,167,2513,402,1984,127,WY,Casper,201-300
+"Cedar Rapids, IA M.S.A.",190,3,19,44,124,2350,532,1682,136,IA,Cedar Rapids,101-200
+"Chambersburg-Waynesboro, PA M.S.A.",160,2,38,43,77,1620,307,1233,79,PA,Chambersburg,101-200
+"Charleston, WV M.S.A.",530,8,53,93,376,3597,783,2534,280,WV,Charleston,501-600
+"Charleston-North Charleston, SC M.S.A.",399,8,39,77,274,2860,546,2081,233,SC,Charleston,301-400
+"Charlottesville, VA M.S.A.",165,1,36,32,96,1514,252,1199,63,VA,Charlottesville,101-200
+"Chattanooga, TN-GA M.S.A.",530,6,36,81,407,3418,663,2476,279,TN,Chattanooga,501-600
+"Cheyenne, WY M.S.A.",177,7,18,9,143,2582,444,1997,141,WY,Cheyenne,101-200
+"Chicago-Naperville-Elgin, IL-IN-WI M.S.A.",378,7,31,137,203,2014,329,1520,165,IL,Chicago,301-400
+"Chicago-Naperville-Arlington Heights, IL M.D.",430,8,33,161,229,2077,339,1554,184,IL,Chicago,401-500
+"Elgin, IL M.D.",189,2,28,37,122,1342,188,1112,42,IL,Elgin,101-200
+"Gary, IN M.D.",269,12,19,92,146,2561,440,1916,204,IN,Gary,201-300
+"Lake County-Kenosha County, IL-WI M.D.",159,2,24,47,86,1528,255,1212,60,IL,Kenosha,101-200
+"Chico, CA M.S.A.",346,3,52,65,225,3350,844,2086,421,CA,Chico,301-400
+"Cincinnati, OH-KY-IN M.S.A.",259,5,37,104,113,2781,577,2078,126,OH,Cincinnati,201-300
+"Clarksville, TN-KY M.S.A.",405,6,35,49,315,2411,488,1815,108,TN,Clarksville,401-500
+"Cleveland, TN M.S.A.",483,7,26,41,410,3324,616,2462,246,TN,Cleveland,401-500
+"Coeur d'Alene, ID M.S.A.",260,1,45,22,191,2176,466,1593,117,ID,Coeur d'Alene,201-300
+"College Station-Bryan, TX M.S.A.",316,4,60,46,205,2545,452,1983,110,TX,College Station,301-400
+"Colorado Springs, CO M.S.A.",359,4,66,58,232,2850,433,2135,282,CO,Colorado Springs,301-400
+"Columbia, MO M.S.A.",430,3,54,90,283,2685,583,1934,168,MO,Columbia,401-500
+"Columbia, SC M.S.A.",651,7,50,99,495,3464,628,2466,370,SC,Columbia,601-700
+"Columbus, GA-AL M.S.A.",469,7,37,195,229,4341,1020,2914,407,GA,Columbus,401-500
+"Columbus, IN M.S.A.",109,1,33,25,49,3287,459,2582,246,IN,Columbus,101-200
+"Columbus, OH M.S.A.2",298,5,57,135,102,2869,589,2083,198,OH,Columbus,201-300
+"Corpus Christi, TX M.S.A.",605,5,75,96,430,3370,697,2521,152,TX,Corpus Christi,601-700
+"Corvallis, OR M.S.A.",117,2,40,20,55,2644,358,2196,90,OR,Corvallis,101-200
+"Crestview-Fort Walton Beach-Destin, FL M.S.A.",372,5,35,37,296,2374,469,1801,104,FL,Fort Walton Beach,301-400
+"Cumberland, MD-WV M.S.A.",275,4,33,61,177,2732,592,2068,72,MD,Cumberland,201-300
+"Dallas-Fort Worth-Arlington, TX M.S.A.2",338,4,41,112,180,2554,503,1792,259,TX,Dallas,301-400
+"Dallas-Plano-Irving, TX M.D.",331,4,38,130,158,2434,496,1648,290,TX,Dallas,301-400
+"Fort Worth-Arlington, TX M.D.2",351,3,47,79,222,2791,518,2077,196,TX,Fort Worth,301-400
+"Dalton, GA M.S.A.",266,2,32,20,211,2767,619,1986,162,GA,Dalton,201-300
+"Danville, IL M.S.A.",780,0,121,123,536,3665,1244,2290,130,IL,Danville,701-800
+"Daphne-Fairhope-Foley, AL M.S.A.",195,2,22,37,136,2064,357,1627,80,AL,Daphne,101-200
+"Davenport-Moline-Rock Island, IA-IL M.S.A.",386,3,59,65,260,2510,493,1884,134,IA,Davenport,301-400
+"Dayton, OH M.S.A.",305,5,58,114,128,2919,710,2028,181,OH,Dayton,301-400
+"Decatur, AL M.S.A.",221,4,24,37,156,2355,574,1632,149,AL,Decatur,201-300
+"Decatur, IL M.S.A.",400,6,38,117,239,2619,672,1870,77,IL,Decatur,301-400
+"Deltona-Daytona Beach-Ormond Beach, FL M.S.A.",449,4,29,62,355,2862,517,2153,192,FL,Daytona Beach,401-500
+"Denver-Aurora-Lakewood, CO M.S.A.3, 4",362,4,64,85,210,,,,388,CO,Denver,301-400
+"Des Moines-West Des Moines, IA M.S.A.",368,3,37,54,273,2350,525,1610,215,IA,Des Moines,301-400
+"Detroit-Warren-Dearborn, MI M.S.A.",498,9,45,121,323,2008,425,1326,257,MI,Detroit,401-500
+"Detroit-Dearborn-Livonia, MI M.D.",902,19,57,247,578,2936,701,1769,466,MI,Detroit,901-1000
+"Warren-Troy-Farmington Hills, MI M.D.",221,2,37,34,148,1371,236,1022,113,MI,Warren,201-300
+"Dothan, AL M.S.A.",350,3,36,50,261,2554,641,1772,141,AL,Dothan,301-400
+"Dover, DE M.S.A.",471,6,50,68,347,2598,366,2152,81,DE,Dover,401-500
+"Dubuque, IA M.S.A.",186,5,33,29,120,2295,721,1499,74,IA,Dubuque,101-200
+"Duluth, MN-WI M.S.A.",243,1,54,29,158,3171,559,2453,160,MN,Duluth,201-300
+"East Stroudsburg, PA M.S.A.",191,1,37,62,91,2264,511,1696,57,PA,East Stroudsburg,101-200
+"Eau Claire, WI M.S.A.",129,0,21,12,96,1669,279,1305,85,WI,Eau Claire,101-200
+"El Centro, CA M.S.A.",415,1,16,73,325,3458,773,2331,354,CA,El Centro,401-500
+"Elizabethtown-Fort Knox, KY M.S.A.",105,3,22,21,58,1232,272,904,56,KY,Elizabethtown,101-200
+"Elkhart-Goshen, IN M.S.A.",400,2,25,64,310,1992,422,1399,172,IN,Elkhart,301-400
+"Elmira, NY M.S.A.",182,2,31,48,101,1996,315,1636,46,NY,Elmira,101-200
+"El Paso, TX M.S.A.",354,3,44,53,255,1825,221,1492,113,TX,El Paso,301-400
+"Enid, OK M.S.A.",284,2,49,31,202,3163,731,2305,127,OK,Enid,201-300
+"Erie, PA M.S.A.",234,4,34,62,135,2052,445,1541,67,PA,Erie,201-300
+"Eugene, OR M.S.A.",330,4,43,57,226,3286,549,2499,238,OR,Eugene,301-400
+"Evansville, IN-KY M.S.A.",337,2,35,80,219,2872,521,2188,163,IN,Evansville,301-400
+"Fairbanks, AK M.S.A.",485,3,46,77,358,3946,459,3146,341,AK,Fairbanks,401-500
+"Fargo, ND-MN M.S.A.",249,3,50,28,169,2403,452,1766,185,ND,Fargo,201-300
+"Farmington, NM M.S.A.",443,4,92,45,302,2213,405,1632,176,NM,Farmington,401-500
+"Flagstaff, AZ M.S.A.",363,2,61,36,263,2792,288,2441,63,AZ,Flagstaff,301-400
+"Flint, MI M.S.A.",581,13,65,108,396,2486,707,1633,146,MI,Flint,501-600
+"Florence-Muscle Shoals, AL M.S.A.",305,1,37,40,227,2442,588,1682,172,AL,Florence,301-400
+"Fond du Lac, WI M.S.A.",214,1,51,13,149,1380,180,1146,54,WI,Fond du Lac,201-300
+"Fort Collins, CO M.S.A.",199,2,27,21,148,2229,281,1819,128,CO,Fort Collins,101-200
+"Fort Smith, AR-OK M.S.A.",446,3,47,52,344,3377,729,2476,172,AR,Fort Smith,401-500
+"Fort Wayne, IN M.S.A.",288,6,30,122,129,2328,435,1782,111,IN,Fort Wayne,201-300
+"Fresno, CA M.S.A.",537,6,32,137,362,3439,751,2197,492,CA,Fresno,501-600
+"Gadsden, AL M.S.A.",532,4,63,83,382,3999,878,2849,272,AL,Gadsden,501-600
+"Gainesville, FL M.S.A.",583,1,68,117,397,2790,474,2160,157,FL,Gainesville,501-600
+"Gainesville, GA M.S.A.",189,3,22,36,128,1845,374,1329,143,GA,Gainesville,101-200
+"Gettysburg, PA M.S.A.",136,0,34,14,88,984,244,706,34,PA,Gettysburg,101-200
+"Glens Falls, NY M.S.A.4",170,1,68,10,92,,174,,21,NY,Glens Falls,101-200
+"Goldsboro, NC M.S.A.",494,9,3,107,376,3604,1099,2338,167,NC,Goldsboro,401-500
+"Grand Forks, ND-MN M.S.A.",244,3,60,26,154,2108,304,1656,148,ND,Grand Forks,201-300
+"Grand Island, NE M.S.A.",215,0,60,15,140,2186,365,1699,122,NE,Grand Island,201-300
+"Grand Junction, CO M.S.A.",328,1,85,26,216,2829,448,2210,171,CO,Grand Junction,301-400
+"Grand Rapids-Wyoming, MI M.S.A.",329,2,75,60,192,1618,301,1236,80,MI,Grand Rapids,301-400
+"Grants Pass, OR M.S.A.",243,8,31,43,161,2829,503,1960,366,OR,Grants Pass,201-300
+"Great Falls, MT M.S.A.",251,7,23,35,185,3487,461,2856,170,MT,Great Falls,201-300
+"Greeley, CO M.S.A.",271,2,47,25,196,1696,300,1261,135,CO,Greeley,201-300
+"Green Bay, WI M.S.A.",197,1,25,25,146,1454,218,1177,59,WI,Green Bay,101-200
+"Greensboro-High Point, NC M.S.A.",398,6,21,115,256,2969,760,2072,137,NC,Greensboro,301-400
+"Greenville, NC M.S.A.",434,8,31,97,298,2818,687,2055,76,NC,Greenville,401-500
+"Gulfport-Biloxi-Pascagoula, MS M.S.A.",233,7,37,67,123,3707,828,2666,214,MS,Gulfport,201-300
+"Hagerstown-Martinsburg, MD-WV M.S.A.",261,4,21,68,168,2124,495,1515,114,MD,Hagerstown,201-300
+"Hammond, LA M.S.A.",769,4,44,142,580,4771,1374,3086,310,LA,Hammond,701-800
+"Hanford-Corcoran, CA M.S.A.",464,3,41,69,350,2608,533,1713,362,CA,Hanford,401-500
+"Harrisonburg, VA M.S.A.",146,1,36,11,97,1556,302,1201,52,VA,Harrisonburg,101-200
+"Hartford-West Hartford-East Hartford, CT M.S.A.",253,4,22,95,131,2175,325,1637,213,CT,Hartford,201-300
+"Hattiesburg, MS M.S.A.",158,4,23,33,98,3025,791,2163,72,MS,Hattiesburg,101-200
+"Hilton Head Island-Bluffton-Beaufort, SC M.S.A.",349,14,44,73,218,2404,498,1770,135,SC,Bluffton,301-400
+"Hinesville, GA M.S.A.",304,1,11,61,232,2270,491,1657,123,GA,,301-400
+"Homosassa Springs, FL M.S.A.",309,1,36,29,243,1439,302,1056,82,FL,Spring,301-400
+"Houma-Thibodaux, LA M.S.A.",446,8,26,61,351,3444,652,2644,148,LA,Houma,401-500
+"Houston-The Woodlands-Sugar Land, TX M.S.A.3",567,7,37,229,294,,597,,367,TX,Houston,501-600
+"Huntsville, AL M.S.A.",485,6,48,102,328,2955,639,2086,229,AL,Huntsville,401-500
+"Idaho Falls, ID M.S.A.",184,1,32,6,145,1823,342,1366,115,ID,Idaho Falls,101-200
+"Indianapolis-Carmel-Anderson, IN M.S.A.",674,8,44,212,410,3208,703,2173,332,IN,Indianapolis,601-700
+"Iowa City, IA M.S.A.",263,1,54,28,181,1982,360,1549,73,IA,Iowa City,201-300
+"Jackson, MI M.S.A.",468,4,91,64,310,2272,371,1816,85,MI,Jackson,401-500
+"Jackson, MS M.S.A.",359,12,31,153,164,2687,682,1778,227,MS,Jackson,301-400
+"Jackson, TN M.S.A.",734,7,43,113,572,3067,848,2065,154,TN,Jackson,701-800
+"Jacksonville, FL M.S.A.",494,8,44,110,332,2952,553,2204,194,FL,Jacksonville,401-500
+"Jacksonville, NC M.S.A.",175,4,26,34,110,2539,664,1800,75,NC,Jacksonville,101-200
+"Janesville-Beloit, WI M.S.A.",239,4,29,47,159,2347,392,1854,101,WI,Janesville,201-300
+"Jefferson City, MO M.S.A.",259,1,32,38,187,1919,346,1470,103,MO,Jefferson City,201-300
+"Johnson City, TN M.S.A.",302,6,20,30,246,2429,475,1851,103,TN,Johnson City,301-400
+"Johnstown, PA M.S.A.",200,4,19,32,144,1634,292,1303,39,PA,Johnstown,101-200
+"Jonesboro, AR M.S.A.",438,4,78,55,302,3293,772,2407,114,AR,Jonesboro,401-500
+"Joplin, MO M.S.A.",331,5,53,60,213,3876,682,2853,340,MO,Joplin,301-400
+"Kahului-Wailuku-Lahaina, HI M.S.A.",338,2,57,68,210,3641,611,2678,353,HI,Kahului,301-400
+"Kalamazoo-Portage, MI M.S.A.",471,3,87,80,300,2509,535,1859,115,MI,Kalamazoo,401-500
+"Kansas City, MO-KS M.S.A.",536,8,57,123,347,2945,557,1981,407,MO,Kansas City,501-600
+"Kennewick-Richland, WA M.S.A.",182,3,36,28,116,2116,392,1602,121,WA,Kennewick,101-200
+"Killeen-Temple, TX M.S.A.",340,6,67,64,203,2560,582,1855,123,TX,Killeen,301-400
+"Kingsport-Bristol-Bristol, TN-VA M.S.A.",318,4,36,31,246,2401,463,1773,165,TN,Bristol,301-400
+"Kingston, NY M.S.A.",169,0,53,23,93,1497,228,1230,39,NY,Kingston,101-200
+"Knoxville, TN M.S.A.",412,3,33,65,311,2904,601,2100,204,TN,Knoxville,401-500
+"Kokomo, IN M.S.A.",580,4,30,96,450,2309,611,1598,100,IN,Kokomo,501-600
+"La Crosse-Onalaska, WI-MN M.S.A.",116,2,21,14,80,2180,317,1808,55,WI,La Crosse,101-200
+"Lafayette, LA M.S.A.",404,8,18,80,298,3146,669,2253,224,LA,Lafayette,401-500
+"Lafayette-West Lafayette, IN M.S.A.",292,2,36,59,195,2509,504,1847,158,IN,Lafayette,201-300
+"Lake Charles, LA M.S.A.2",629,4,63,95,466,4218,1504,2485,229,LA,Lake Charles,601-700
+"Lake Havasu City-Kingman, AZ M.S.A.",201,2,27,28,144,2877,679,2028,170,AZ,Lake Havasu City,201-300
+"Lakeland-Winter Haven, FL M.S.A.",340,4,33,59,244,2472,568,1733,171,FL,Lakeland,301-400
+"Lancaster, PA M.S.A.",180,3,42,51,84,1422,212,1164,46,PA,Lancaster,101-200
+"Lansing-East Lansing, MI M.S.A.",425,4,71,70,280,1873,424,1319,130,MI,Lansing,401-500
+"Laredo, TX M.S.A.",386,3,54,62,266,3287,420,2747,121,TX,Laredo,301-400
+"Las Cruces, NM M.S.A.",261,3,39,32,188,3086,561,2354,171,NM,Las Cruces,201-300
+"Las Vegas-Henderson-Paradise, NV M.S.A.",815,7,63,273,472,2818,869,1499,450,NV,Las Vegas,801-900
+"Lawton, OK M.S.A.",744,8,46,163,527,3637,1009,2422,206,OK,Lawton,701-800
+"Lebanon, PA M.S.A.",185,3,18,31,133,1549,256,1208,85,PA,Lebanon,101-200
+"Lewiston, ID-WA M.S.A.",214,6,54,29,124,3019,648,2177,195,ID,Lewiston,201-300
+"Lewiston-Auburn, ME M.S.A.",138,0,39,29,70,1774,353,1350,71,ME,Lewiston,101-200
+"Lexington-Fayette, KY M.S.A.",256,4,44,119,90,3487,698,2539,250,KY,Lexington,201-300
+"Lima, OH M.S.A.",388,3,57,97,231,3370,815,2430,125,OH,Lima,301-400
+"Lincoln, NE M.S.A.",330,0,65,67,197,2954,443,2392,120,NE,Lincoln,301-400
+"Little Rock-North Little Rock-Conway, AR M.S.A.",725,9,52,137,527,4126,809,3023,293,AR,Little Rock,701-800
+"Logan, UT-ID M.S.A.",62,1,33,2,26,1201,208,950,43,UT,Logan,0-100
+"Longview, TX M.S.A.",431,10,52,72,297,3324,749,2335,240,TX,Longview,401-500
+"Longview, WA M.S.A.",302,2,65,53,182,3182,625,2284,273,WA,Longview,301-400
+"Los Angeles-Long Beach-Anaheim, CA M.S.A.",432,5,35,149,243,2308,418,1496,394,CA,Los Angeles,401-500
+"Anaheim-Santa Ana-Irvine, CA M.D.",227,2,24,70,131,2149,331,1545,273,CA,Anaheim,201-300
+"Los Angeles-Long Beach-Glendale, CA M.D.",496,6,38,174,278,2358,446,1481,431,CA,Los Angeles,401-500
+"Louisville/Jefferson County, KY-IN M.S.A.",423,8,26,144,245,3258,684,2236,338,KY,Louisville,401-500
+"Lubbock, TX M.S.A.",825,6,71,148,601,4529,967,3223,340,TX,Lubbock,801-900
+"Lynchburg, VA M.S.A.",180,4,29,28,120,1455,230,1156,69,VA,Lynchburg,101-200
+"Macon-Bibb County, GA M.S.A.",320,10,24,118,168,3578,859,2429,290,GA,Macon,301-400
+"Madera, CA M.S.A.",553,3,24,80,446,2385,715,1327,343,CA,Madera,501-600
+"Madison, WI M.S.A.",212,3,30,47,133,1957,310,1581,66,WI,Madison,201-300
+"Manchester-Nashua, NH M.S.A.",281,3,47,70,161,1924,287,1547,90,NH,Manchester,201-300
+"Manhattan, KS M.S.A.",230,2,36,25,166,1688,378,1217,93,KS,Manhattan,201-300
+"Mankato-North Mankato, MN M.S.A.",153,0,37,22,93,2325,402,1822,101,MN,Mankato,101-200
+"Mansfield, OH M.S.A.",261,2,77,80,102,4008,1086,2826,96,OH,Mansfield,201-300
+"McAllen-Edinburg-Mission, TX M.S.A.2",298,4,41,47,206,2900,502,2266,131,TX,McAllen,201-300
+"Medford, OR M.S.A.",324,2,31,39,252,3843,495,3090,258,OR,Medford,301-400
+"Memphis, TN-MS-AR M.S.A.",1038,12,52,260,714,3959,1047,2645,267,TN,Memphis,1000 Plus
+"Merced, CA M.S.A.",621,10,30,97,484,2952,686,1702,564,CA,Merced,601-700
+"Miami-Fort Lauderdale-West Palm Beach, FL M.S.A.",510,7,31,157,316,3286,536,2470,280,FL,Miami,501-600
+"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL M.D.",406,4,31,130,240,3030,537,2235,258,FL,Fort Lauderdale,401-500
+"Miami-Miami Beach-Kendall, FL M.D.",610,8,28,198,377,3670,535,2812,324,FL,Miami,601-700
+"West Palm Beach-Boca Raton-Delray Beach, FL M.D.",459,7,37,116,300,2895,537,2134,225,FL,West Palm Beach,401-500
+"Michigan City-La Porte, IN M.S.A.",156,4,24,52,76,2917,541,2218,159,IN,Michigan City,101-200
+"Midland, MI M.S.A.",144,2,66,4,72,1108,206,881,20,MI,Midland,101-200
+"Midland, TX M.S.A.",322,5,28,47,241,2591,524,1892,175,TX,Midland,301-400
+"Milwaukee-Waukesha-West Allis, WI M.S.A.",680,10,37,266,368,2759,473,1746,539,WI,Milwaukee,601-700
+"Minneapolis-St. Paul-Bloomington, MN-WI M.S.A.",285,3,41,97,145,2368,354,1842,171,MN,Minneapolis,201-300
+"Missoula, MT M.S.A.",425,4,83,26,312,3059,445,2475,138,MT,Missoula,401-500
+"Mobile, AL M.S.A.5",531,11,44,123,353,3670,829,2587,255,AL,Mobile,501-600
+"Modesto, CA M.S.A.",577,7,30,152,388,3692,726,2274,692,CA,Modesto,501-600
+"Monroe, LA M.S.A.2",1160,15,41,122,981,4702,1180,3356,166,LA,Monroe,1000 Plus
+"Monroe, MI M.S.A.",236,2,70,30,135,1693,448,1154,90,MI,Monroe,201-300
+"Montgomery, AL M.S.A.",401,10,32,128,230,3427,929,2221,277,AL,Montgomery,401-500
+"Morgantown, WV M.S.A.",268,2,46,38,181,1670,436,1153,81,WV,Morgantown,201-300
+"Morristown, TN M.S.A.",362,3,31,23,305,2572,479,1918,175,TN,Morristown,301-400
+"Mount Vernon-Anacortes, WA M.S.A.",178,2,30,41,104,3878,788,2878,212,WA,Mount Vernon,101-200
+"Muskegon, MI M.S.A.",415,5,86,67,257,3267,536,2572,158,MI,Muskegon,401-500
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC M.S.A.",390,14,63,75,238,3795,773,2746,276,SC,Myrtle Beach,301-400
+"Napa, CA M.S.A.",411,2,43,38,327,1811,419,1227,165,CA,Napa,401-500
+"Naples-Immokalee-Marco Island, FL M.S.A.",287,1,30,47,210,1348,265,1007,76,FL,Naples,201-300
+"Nashville-Davidson–Murfreesboro–Franklin, TN M.S.A.",613,6,48,129,430,2580,507,1930,144,TN,Nashville,601-700
+"New Bern, NC M.S.A.",185,6,12,33,134,2030,600,1363,67,NC,New Bern,101-200
+"New Orleans-Metairie, LA M.S.A.",534,16,48,168,302,3030,532,2196,302,LA,New Orleans,501-600
+"Niles-Benton Harbor, MI M.S.A.",386,5,86,68,226,1719,347,1293,79,MI,Niles,301-400
+"North Port-Sarasota-Bradenton, FL M.S.A.",417,4,40,64,308,2334,482,1751,100,FL,Sarasota,401-500
+"Norwich-New London, CT M.S.A.",324,4,39,69,211,2040,298,1632,111,CT,Norwich,301-400
+"Ocala, FL M.S.A.",363,3,33,58,270,2097,502,1496,98,FL,Ocala,301-400
+"Ocean City, NJ M.S.A.2",230,1,22,54,153,3289,623,2608,58,NJ,Ocean,201-300
+"Odessa, TX M.S.A.",1070,8,55,127,880,4234,801,2938,495,TX,Odessa,1000 Plus
+"Ogden-Clearfield, UT M.S.A.2, 3",158,2,52,26,78,,,1682,146,UT,Ogden,101-200
+"Oklahoma City, OK M.S.A.",462,7,52,107,296,3056,702,2048,305,OK,Oklahoma City,401-500
+"Olympia-Tumwater, WA M.S.A.",242,1,37,44,160,2903,649,2011,243,WA,Olympia,201-300
+"Omaha-Council Bluffs, NE-IA M.S.A.2",326,6,33,82,205,2668,361,1953,355,NE,Omaha,301-400
+"Orlando-Kissimmee-Sanford, FL M.S.A.",530,5,50,110,365,3106,728,2168,209,FL,Orlando,501-600
+"Oshkosh-Neenah, WI M.S.A.",178,2,17,24,134,1684,283,1345,56,WI,Oshkosh,101-200
+"Owensboro, KY M.S.A.",136,0,38,44,54,2252,388,1747,117,KY,Owensboro,101-200
+"Oxnard-Thousand Oaks-Ventura, CA M.S.A.",256,3,24,80,149,2028,353,1481,194,CA,Oxnard,201-300
+"Palm Bay-Melbourne-Titusville, FL M.S.A.",531,4,60,80,387,2656,507,1977,172,FL,Melbourne,501-600
+"Panama City, FL M.S.A.",518,5,41,82,391,3607,659,2754,194,FL,Panama City,501-600
+"Parkersburg-Vienna, WV M.S.A.",160,3,32,12,114,1903,590,1211,102,WV,Parkersburg,101-200
+"Pensacola-Ferry Pass-Brent, FL M.S.A.",507,6,49,89,362,2941,630,2159,153,FL,Pensacola,501-600
+"Peoria, IL M.S.A.",358,4,45,94,215,2223,497,1654,72,IL,Peoria,301-400
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD M.S.A.2",460,7,35,173,244,2196,362,1688,146,PA,Philadelphia,401-500
+"Camden, NJ M.D.2",272,4,18,94,156,2022,427,1503,93,NJ,Camden,201-300
+"Montgomery County-Bucks County-Chester County, PA M.D.",128,2,13,37,76,1447,175,1220,53,PA,Montgomery,101-200
+"Philadelphia, PA M.D.",861,15,66,352,428,2827,450,2113,263,PA,Philadelphia,801-900
+"Wilmington, DE-MD-NJ M.D.2",502,8,32,153,309,2666,497,2025,144,DE,Wilmington,501-600
+"Phoenix-Mesa-Scottsdale, AZ M.S.A.",388,4,43,104,237,2824,572,1984,268,AZ,Phoenix,301-400
+"Pine Bluff, AR M.S.A",744,13,54,117,561,3788,1259,2298,231,AR,Pine Bluff,701-800
+"Pittsburgh, PA M.S.A.",266,5,18,76,168,1783,322,1389,72,PA,Pittsburgh,201-300
+"Pittsfield, MA M.S.A.",460,3,55,43,358,2004,569,1359,76,MA,Pittsfield,401-500
+"Pocatello, ID M.S.A.",264,1,31,8,224,2666,465,2052,148,ID,Pocatello,201-300
+"Portland-South Portland, ME M.S.A.",135,1,24,36,74,1834,326,1448,60,ME,Portland,101-200
+"Port St. Lucie, FL M.S.A.",286,3,29,54,200,1841,339,1414,88,FL,Port St Lucie,201-300
+"Prescott, AZ M.S.A.",294,4,26,12,252,2036,360,1563,114,AZ,Prescott,201-300
+"Providence-Warwick, RI-MA M.S.A.",334,2,39,65,227,1877,385,1364,127,RI,Providence,301-400
+"Provo-Orem, UT M.S.A.",72,0,25,8,38,1552,188,1275,88,UT,Provo,0-100
+"Pueblo, CO M.S.A.",616,8,105,115,388,5191,1392,3175,624,CO,Pueblo,601-700
+"Punta Gorda, FL M.S.A.",202,1,18,18,166,1510,242,1203,64,FL,,201-300
+"Racine, WI M.S.A.",232,2,18,90,121,2048,512,1466,69,WI,Racine,201-300
+"Rapid City, SD M.S.A.",476,6,105,50,314,2594,446,1949,200,SD,Rapid City,401-500
+"Reading, PA M.S.A.",309,4,23,86,197,1682,350,1232,100,PA,Reading,301-400
+"Redding, CA M.S.A.",777,3,68,100,605,3246,694,2097,454,CA,Redding,701-800
+"Reno, NV M.S.A.",448,4,50,102,292,2592,533,1749,310,NV,Reno,401-500
+"Richmond, VA M.S.A.",236,8,25,78,126,2352,387,1823,141,VA,Richmond,201-300
+"Riverside-San Bernardino-Ontario, CA M.S.A.",378,4,24,113,236,2789,624,1654,510,CA,Riverside,301-400
+"Roanoke, VA M.S.A.",214,6,33,28,146,2129,268,1760,100,VA,Roanoke,201-300
+"Rochester, MN M.S.A.",128,0,29,26,72,1514,308,1142,64,MN,Rochester,101-200
+"Rochester, NY M.S.A.",281,4,44,82,150,2108,388,1609,110,NY,Rochester,201-300
+"Rockford, IL M.S.A.",819,7,63,171,578,2651,626,1834,191,IL,Rockford,801-900
+"Rocky Mount, NC M.S.A.",423,14,20,94,296,2708,857,1750,100,NC,Rocky Mount,401-500
+"Rome, GA M.S.A.",350,11,38,77,224,3254,649,2396,209,GA,Rome,301-400
+"Sacramento–Roseville–Arden-Arcade, CA M.S.A.",445,5,26,131,284,2580,540,1664,376,CA,Sacramento,401-500
+"Saginaw, MI M.S.A.",604,4,84,71,446,1973,545,1325,103,MI,Saginaw,601-700
+"Salem, OR M.S.A.",240,2,23,43,173,2950,400,2239,310,OR,Salem,201-300
+"Salinas, CA M.S.A.",443,14,37,128,264,2193,417,1125,651,CA,Salinas,401-500
+"Salisbury, MD-DE M.S.A.",388,3,39,78,269,2871,657,2140,74,MD,Salisbury,301-400
+"Salt Lake City, UT M.S.A.",392,3,72,92,226,,,3575,565,UT,Salt Lake City,301-400
+"San Angelo, TX M.S.A.",329,3,68,25,233,3750,731,2784,235,TX,San Angelo,301-400
+"San Antonio-New Braunfels, TX M.S.A.",437,5,59,94,278,3953,657,2983,312,TX,San Antonio,401-500
+"San Diego-Carlsbad, CA M.S.A.",332,2,33,85,211,1922,325,1297,300,CA,San Diego,301-400
+"San Francisco-Oakland-Hayward, CA M.S.A.",485,5,31,235,214,3600,518,2451,632,CA,San Francisco,401-500
+"Oakland-Hayward-Berkeley, CA M.D.",491,6,30,240,216,3362,523,2120,719,CA,Oakland,401-500
+"San Francisco-Redwood City-South San Francisco, CA M.D.",521,4,35,256,226,4260,524,3190,545,CA,San Francisco,501-600
+"San Rafael, CA M.D.",197,2,22,56,117,2014,414,1342,257,CA,San Rafael,101-200
+"San Jose-Sunnyvale-Santa Clara, CA M.S.A.",252,2,30,80,140,2317,439,1406,471,CA,San Jose,201-300
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA M.S.A.",403,1,29,27,346,2413,481,1744,188,CA,San Luis Obispo,401-500
+"Santa Cruz-Watsonville, CA M.S.A.",428,2,43,102,280,3391,534,2431,425,CA,Santa Cruz,401-500
+"Santa Maria-Santa Barbara, CA M.S.A.",322,4,44,64,210,2105,412,1456,238,CA,Santa Maria,301-400
+"Santa Rosa, CA M.S.A.",377,2,51,60,265,1974,347,1422,205,CA,Santa Rosa,301-400
+"Savannah, GA M.S.A.",400,15,22,158,205,3314,684,2284,346,GA,Savannah,301-400
+"Seattle-Tacoma-Bellevue, WA M.S.A.2",324,3,32,104,186,3852,768,2615,469,WA,Seattle,301-400
+"Seattle-Bellevue-Everett, WA M.D.2",290,3,28,101,158,3865,732,2672,462,WA,Seattle,201-300
+"Tacoma-Lakewood, WA M.D.",441,4,44,113,280,3807,891,2421,495,WA,Tacoma,401-500
+"Sebastian-Vero Beach, FL M.S.A.",266,1,24,27,213,2411,480,1829,102,FL,San Sebastian,201-300
+"Sebring, FL M.S.A.",342,5,38,57,241,2739,634,1994,112,FL,,301-400
+"Sheboygan, WI M.S.A.",174,3,26,16,129,1570,160,1364,46,WI,,101-200
+"Sherman-Denison, TX M.S.A.",327,6,59,50,212,2123,497,1435,192,TX,Sherman,301-400
+"Shreveport-Bossier City, LA M.S.A.",580,8,45,130,397,3597,788,2601,208,LA,Shreveport,501-600
+"Sioux City, IA-NE-SD M.S.A.2",270,2,37,35,196,2735,479,2036,220,IA,Sioux City,201-300
+"Sioux Falls, SD M.S.A.",364,1,58,35,269,2503,492,1827,184,SD,Sioux Falls,301-400
+"South Bend-Mishawaka, IN-MI M.S.A.",354,7,52,135,160,3094,749,2158,186,IN,South Bend,301-400
+"Spartanburg, SC M.S.A.",406,8,47,88,264,2772,606,1998,169,SC,Spartanburg,401-500
+"Spokane-Spokane Valley, WA M.S.A.",305,4,45,86,171,4745,923,3350,472,WA,Spokane,301-400
+"Springfield, IL M.S.A.",720,5,70,131,514,3076,669,2287,120,IL,Springfield,701-800
+"Springfield, MA M.S.A.",530,4,52,121,353,2367,529,1656,181,MA,Springfield,501-600
+"Springfield, MO M.S.A.",621,3,81,110,427,4022,695,2970,357,MO,Springfield,601-700
+"Springfield, OH M.S.A.",298,9,30,131,128,3596,1016,2392,188,OH,Springfield,201-300
+"State College, PA M.S.A.",103,1,39,8,54,1177,175,981,21,PA,State College,101-200
+"Staunton-Waynesboro, VA M.S.A.",139,3,28,24,84,1483,197,1224,63,VA,Staunton,101-200
+"St. Cloud, MN M.S.A.",173,2,49,31,91,2655,332,2224,100,MN,St. Cloud,101-200
+"St. George, UT M.S.A.",133,0,38,11,85,1676,372,1188,115,UT,St. George,101-200
+"St. Joseph, MO-KS M.S.A.",384,9,59,70,246,4036,801,2833,402,MO,St Joseph,301-400
+"St. Louis, MO-IL M.S.A.2",486,10,38,121,316,2533,475,1833,225,MO,St. Louis,401-500
+"Stockton-Lodi, CA M.S.A.",797,9,27,213,548,3466,727,2180,559,CA,Stockton,701-800
+"Sumter, SC M.S.A.",622,6,31,89,495,3469,1152,2089,228,SC,Sumter,601-700
+"Syracuse, NY M.S.A.",284,4,48,73,159,2059,383,1598,78,NY,Syracuse,201-300
+"Tallahassee, FL M.S.A.",767,7,81,122,557,3756,833,2602,321,FL,Tallahassee,701-800
+"Tampa-St. Petersburg-Clearwater, FL M.S.A.",384,4,33,88,260,2628,472,1964,191,FL,Tampa,301-400
+"Texarkana, TX-AR M.S.A.",468,5,51,72,340,3466,744,2490,232,TX,Texarkana,401-500
+"The Villages, FL M.S.A.",232,1,15,17,200,941,258,632,51,FL,The Villages,201-300
+"Toledo, OH M.S.A.2",584,4,52,164,364,3000,868,1947,184,OH,Toledo,501-600
+"Topeka, KS M.S.A.",392,6,48,101,237,3632,780,2572,279,KS,Topeka,301-400
+"Trenton, NJ M.S.A.2",374,5,25,145,199,1785,405,1188,191,NJ,Trenton,301-400
+"Tucson, AZ M.S.A.",421,4,52,124,241,4748,556,3936,257,AZ,Tucson,401-500
+"Tulsa, OK M.S.A.2",501,8,60,99,335,3161,824,1963,373,OK,Tulsa,501-600
+"Tuscaloosa, AL M.S.A.",393,4,36,108,245,2932,738,2040,154,AL,Tuscaloosa,301-400
+"Tyler, TX M.S.A.",296,5,28,48,214,2945,613,2121,211,TX,Tyler,201-300
+"Urban Honolulu, HI M.S.A.",244,2,32,90,121,3111,429,2295,387,HI,Honolulu,201-300
+"Utica-Rome, NY M.S.A.",234,3,56,39,136,1983,356,1558,69,NY,Utica,201-300
+"Vallejo-Fairfield, CA M.S.A.",474,7,44,154,269,2990,821,1665,505,CA,Vallejo,401-500
+"Victoria, TX M.S.A.",452,3,78,53,318,2824,618,2066,141,TX,Victoria,401-500
+"Vineland-Bridgeton, NJ M.S.A.2",583,10,49,220,305,4112,920,3087,105,NJ,Vineland,501-600
+"Virginia Beach-Norfolk-Newport News, VA-NC M.S.A.",309,8,31,98,172,2727,388,2195,144,VA,Virginia Beach,301-400
+"Visalia-Porterville, CA M.S.A.",396,10,38,72,276,2558,588,1571,398,CA,Visalia,301-400
+"Waco, TX M.S.A.",412,9,56,69,278,3019,660,2241,119,TX,Waco,401-500
+"Walla Walla, WA M.S.A.",311,6,44,37,224,3353,619,2513,221,WA,Walla Walla,301-400
+"Warner Robins, GA M.S.A.",358,3,23,101,232,3441,736,2553,152,GA,Warner Robins,301-400
+"Washington-Arlington-Alexandria, DC-VA-MD-WV M.S.A.",324,5,27,123,168,1929,216,1552,162,DC,Washington,301-400
+"Silver Spring-Frederick-Rockville, MD M.D.",204,3,24,58,119,1559,198,1293,68,MD,Silver Spring,201-300
+"Washington-Arlington-Alexandria, DC-VA-MD-WV M.D.",356,6,28,140,181,2028,220,1621,186,DC,Washington,301-400
+"Waterloo-Cedar Falls, IA M.S.A.",497,2,49,35,410,2075,624,1352,99,IA,Waterloo,401-500
+"Watertown-Fort Drum, NY M.S.A.",189,2,69,16,101,1961,332,1586,43,NY,Watertown,101-200
+"Wausau, WI M.S.A.",111,2,18,19,72,1208,187,985,36,WI,Wausau,101-200
+"Wenatchee, WA M.S.A.",100,1,17,10,72,2111,464,1505,141,WA,Wenatchee,0-100
+"Wheeling, WV-OH M.S.A.",334,4,33,40,258,1500,335,1092,73,WV,Wheeling,301-400
+"Wichita, KS M.S.A.6",673,5,67,119,483,,,2712,361,KS,Wichita,601-700
+"Wichita Falls, TX M.S.A.",334,1,67,82,184,3260,788,2291,180,TX,Wichita Falls,301-400
+"Williamsport, PA M.S.A.",209,6,48,47,108,1791,293,1454,43,PA,Williamsport,201-300
+"Wilmington, NC M.S.A.",424,7,34,122,261,3292,885,2253,155,NC,Wilmington,401-500
+"Winchester, VA-WV M.S.A.",174,2,57,28,87,2021,321,1604,96,VA,Winchester,101-200
+"Worcester, MA-CT M.S.A.",435,2,32,73,328,1746,373,1272,102,MA,Worcester,401-500
+"Yakima, WA M.S.A.",293,8,31,77,177,3537,908,2176,454,WA,Yakima,201-300
+"York-Hanover, PA M.S.A.",218,4,23,64,126,1551,233,1255,64,PA,York,201-300
+"Yuba City, CA M.S.A.",372,4,37,82,250,2589,659,1556,373,CA,Yuba City,301-400
+"Yuma, AZ M.S.A.",327,5,35,45,243,2250,627,1423,200,AZ,Yuma,301-400
+"Aguadilla-Isabela, Puerto Rico M.S.A.",109,5,4,40,60,710,284,403,22,"Aguadilla-Isabela, Puerto Rico M.S.A.",Aguadilla,101-200
+"Arecibo, Puerto Rico M.S.A.",99,7,3,53,37,1032,287,671,74,"Arecibo, Puerto Rico M.S.A.",Arecibo,0-100
+"Guayama, Puerto Rico M.S.A.",252,11,6,75,159,823,266,531,27,"Guayama, Puerto Rico M.S.A.",Guayama,201-300
+"Mayaguez, Puerto Rico M.S.A.",238,12,5,82,139,1320,377,862,81,"Mayaguez, Puerto Rico M.S.A.",Mayaguez,201-300
+"Ponce, Puerto Rico M.S.A.",231,18,5,66,142,885,214,632,38,"Ponce, Puerto Rico M.S.A.",Ponce,201-300
+"San German, Puerto Rico M.S.A.",92,5,5,16,66,420,169,226,25,"San German, Puerto Rico M.S.A.",San German,0-100
+"San Juan-Carolina-Caguas, Puerto Rico M.S.A.",262,21,5,158,79,1281,282,835,164,"San Juan-Carolina-Caguas, Puerto Rico M.S.A.",San Juan,201-300
